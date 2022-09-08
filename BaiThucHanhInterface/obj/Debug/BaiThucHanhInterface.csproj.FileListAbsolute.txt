@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\bin\Debug\BaiThucHanhInterface.exe.config
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\bin\Debug\BaiThucHanhInterface.exe
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\bin\Debug\BaiThucHanhInterface.pdb
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\obj\Debug\BaiThucHanhInterface.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\obj\Debug\BaiThucHanhInterface.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\obj\Debug\BaiThucHanhInterface.exe
+C:\Users\asus\source\repos\BaiThucHanhInterface\BaiThucHanhInterface\obj\Debug\BaiThucHanhInterface.pdb
